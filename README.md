@@ -1,6 +1,6 @@
 # Sinais e sistemas com Python
 - Este é um repositório com alguns códigos feitos em python para a disciplina de Sinais e sitemas lineares, do curso de engenharia de computação.
-- Bibliotecas utilidas: numpy, matplotlib, math, scipy.io.
+- Bibliotecas utilizadas: numpy, matplotlib, math, scipy.io.
 #
 
 - Código 1: É um programa que lê dois sinais discretos em formato de arquivo de texto (txt) e faz a convolução discreta entre os dois sinais, e como resultado exibe graficamente os sinais de entrada e o resultado da convolução, salvando-o em um arquivo txt também.
